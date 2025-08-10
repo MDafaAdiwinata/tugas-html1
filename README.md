@@ -8,5 +8,5 @@ Membuat tampilan website dengan beberapa section:
 4. section 4 portofolio <br>
    _menggunakan html table_
 
-**Preview Website**
+**Demo Website**
 > [Kunjungi Website nya disini!](https://mdafaadiwinata.github.io/tugas-html1)
