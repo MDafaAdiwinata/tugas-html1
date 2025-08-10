@@ -6,4 +6,7 @@ Membuat tampilan website dengan beberapa section:
 2. section 2 judul di kiri dan gambar di kanan <br>
 3. section 3 biodata dengan 6 box <br>
 4. section 4 portofolio <br>
-   **menggunakan html table**
+   _menggunakan html table_
+
+**Preview Website**
+> [Kunjungi Website nya disini!](https://mdafaadiwinata.github.io/tugas-html1)
